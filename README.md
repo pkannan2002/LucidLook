@@ -1,5 +1,6 @@
 # LucidLook
  The Drowsiness Detection project is an innovative solution designed to detect driver fatigue and take swift action to prevent accidents. This project can be included in any automobile to reduce accidents caused by the drowsiness of drivers, enhancing real-time safety.
+Download the shape_predictor_68_face_landmarks.dat from the Github to make the code work 
 The project utilizes the following libraries:
 1.scipy
 2.imutils
